@@ -7,12 +7,3 @@ Currently learning and improving my skills in modern web technologies. 🚀
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode" />
 </p>
-
-## 🌱 About Me
-- 🔭 Currently learning **React** and **JavaScript**
-- 🌐 Interested in creating user-friendly web apps
-- 📚 Open to collaboration and learning from others
-- 🎯 Goal: Become a professional frontend developer
-
-## 📫 Contact Me
-- ✉️ Email: grigorjevsstepans@gmail.com
